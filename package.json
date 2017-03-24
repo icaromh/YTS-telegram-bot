@@ -9,11 +9,12 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
+  "engines": {
+    "node": "6.9.4"
+  },
   "dependencies": {
     "async": "^2.1.5",
     "node-telegram-bot-api": "^0.27.0",
-    "phantom": "^4.0.1",
-    "phantomjs": "^1.9.8",
     "scraperjs": "^1.2.0"
   }
 }
