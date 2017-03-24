@@ -1,0 +1,19 @@
+{
+  "name": "crawl",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^2.1.5",
+    "node-telegram-bot-api": "^0.27.0",
+    "phantom": "^4.0.1",
+    "phantomjs": "^1.9.8",
+    "scraperjs": "^1.2.0"
+  }
+}
